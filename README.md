@@ -27,4 +27,4 @@ Then, you just need to change the `style` tag as: `<style lang="sass"><style>`.
 See [How-to-create-your-own-template](https://github.com/weex-templates/How-to-create-your-own-template).
 
 demo
-![demo](https://github.com/xieningtao/documents/blob/master/qrcode/weex_demo.png "demo apk下载")
+[demo](https://github.com/xieningtao/documents/blob/master/qrcode/weex_demo.png "demo apk下载")
